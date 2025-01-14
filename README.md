@@ -15,7 +15,6 @@ The program is designed to take user input for the number of dice and the type o
 - Java  
 - JavaFX (for GUI elements)  
 - Scene Builder (optional, if used for UI design)  
-- [Any other relevant technologies or libraries used]  
 
 ## Key Features:  
 - **Customizable Dice Roll**: Users can select how many dice to roll and the number of sides on each dice.
